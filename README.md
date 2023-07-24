@@ -27,7 +27,7 @@ A unique identifier to represent the contents on a row in the logical design of 
   - Identity
   - Sequence
   - NewID() GUID
-<br>
+
 (9) Natural Key<br>
 A unique identifier to represent the contents on a row in the logical design of a relational database as described using data attributes that exist within the data set and also have meaning outside the context of the database.<br>
 (10) Primary key<br>
